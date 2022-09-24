@@ -1,0 +1,16 @@
+.ulClass{
+
+    width: fit-content;
+    display: flex;
+}
+.inputClass{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100px;
+    margin-top: 55px;
+    justify-content: space-evenly;
+
+
+}
+
